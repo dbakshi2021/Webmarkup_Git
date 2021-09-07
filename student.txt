@@ -1,0 +1,3 @@
+student name: Deblina Bakshi
+student number: 680607
+student class: IT1b
